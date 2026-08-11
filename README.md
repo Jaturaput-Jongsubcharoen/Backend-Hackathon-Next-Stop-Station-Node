@@ -1,6 +1,6 @@
 # AI Battery Intelligence with Digital Twin - Backend
 
-## Hackathon Highlight (1st Place)
+## Hackathon Highlight — 1st Place Winner 🏆
 
 [![Fleet Operator Dashboard](assets/readme/live-demo-dashboard.png)](https://frontend-hackathon-next-stop-station.onrender.com/)
 
@@ -11,8 +11,6 @@ This backend powers the **AI Battery Intelligence with Digital Twin** platform b
 - Result: **1st Place Winner**
 - Event: **Centennial Innovates ARIES (Applied Research, Innovation, and Entrepreneurship)**
 - Certificate date: **October 24, 2025**
-- Live demo (Operator Dashboard): [https://frontend-hackathon-next-stop-station.onrender.com/](https://frontend-hackathon-next-stop-station.onrender.com/)
-- Live demo (Driver Monitor, /driver version): [https://frontend-hackathon-next-stop-station.onrender.com/driver-monitor](https://frontend-hackathon-next-stop-station.onrender.com/driver-monitor)
 - Backend API (health): [https://backend-hackathon-next-stop-station-node.onrender.com/api](https://backend-hackathon-next-stop-station-node.onrender.com/api)
 - Backend API (battery data): [https://backend-hackathon-next-stop-station-node.onrender.com/api/battery](https://backend-hackathon-next-stop-station-node.onrender.com/api/battery)
 - Backend API (trend data): [https://backend-hackathon-next-stop-station-node.onrender.com/api/battery/trend](https://backend-hackathon-next-stop-station-node.onrender.com/api/battery/trend)

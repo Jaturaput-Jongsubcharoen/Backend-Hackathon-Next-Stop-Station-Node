@@ -2,15 +2,17 @@
 
 ## Hackathon Highlight — 1st Place Winner 🏆
 
-[![Fleet Operator Dashboard](assets/readme/live-demo-dashboard.png)](https://frontend-hackathon-next-stop-station.onrender.com/)
+[![Fleet Operator Dashboard](images/fleet-operator-dashboard.png)](https://frontend-hackathon-next-stop-station.onrender.com/)
 
-[![Fleet Zero Innovation Transportation Jam Certificate](assets/readme/hackathon-certificate.png)](https://client-jaturaput-portfolio.onrender.com/certificate/Jaturaput_Jongsubcharoen-Certificate_FleetZero-Centennial_Innovates_Jam.pdf)
+[![Fleet Zero Innovation Transportation Jam Certificate](images/fleetzero-winner-certificate.jpg)](https://client-jaturaput-portfolio.onrender.com/certificate/Jaturaput_Jongsubcharoen-Certificate_FleetZero-Centennial_Innovates_Jam.pdf)
 
 This backend powers the **AI Battery Intelligence with Digital Twin** platform built during the **Fleet Zero Innovation Transportation Jam** by team **NextStop Charge**.
 
 - Result: **1st Place Winner**
 - Event: **Centennial Innovates ARIES (Applied Research, Innovation, and Entrepreneurship)**
 - Certificate date: **October 24, 2025**
+- Live demo (Operator Dashboard): [https://frontend-hackathon-next-stop-station.onrender.com/](https://frontend-hackathon-next-stop-station.onrender.com/)
+- Live demo (Driver Monitor, /driver version): [https://frontend-hackathon-next-stop-station.onrender.com/driver-monitor](https://frontend-hackathon-next-stop-station.onrender.com/driver-monitor)
 - Backend API (health): [https://backend-hackathon-next-stop-station-node.onrender.com/api](https://backend-hackathon-next-stop-station-node.onrender.com/api)
 - Backend API (battery data): [https://backend-hackathon-next-stop-station-node.onrender.com/api/battery](https://backend-hackathon-next-stop-station-node.onrender.com/api/battery)
 - Backend API (trend data): [https://backend-hackathon-next-stop-station-node.onrender.com/api/battery/trend](https://backend-hackathon-next-stop-station-node.onrender.com/api/battery/trend)
